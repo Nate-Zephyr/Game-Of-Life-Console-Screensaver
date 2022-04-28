@@ -1,0 +1,7 @@
+C:\Users\Nate Zephyr\source\repos\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Users\Nate Zephyr\source\repos\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\Nate Zephyr\source\repos\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\Nate Zephyr\source\repos\GameOfLife\obj\Release\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Nate Zephyr\source\repos\GameOfLife\obj\Release\GameOfLife.exe
+C:\Users\Nate Zephyr\source\repos\GameOfLife\obj\Release\GameOfLife.pdb
+C:\Users\Nate Zephyr\source\repos\GameOfLife\obj\Release\GameOfLife.csprojAssemblyReference.cache
